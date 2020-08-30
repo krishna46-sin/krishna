@@ -1,0 +1,92 @@
+body{
+    margin:auto;
+}
+.background{
+
+    height:60px;
+    width:100%;
+    background-color: red;
+    position: relative;
+}
+.image{
+    background-image: url("eduproject1.png");
+    height:352px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+    margin-bottom: 352px;
+    margin-right: 113px;
+    margin-left: 113px;
+   position: relative;
+
+}
+.logo{
+  text-align: center;
+  color: red;
+  position: absolute;
+  height:40px;
+  width:40px;
+  font-size: 33px;
+  margin-left: 120px;
+  margin-top: 10px;
+ 
+  background: white;
+  border-radius: 50px;
+}
+    .logincreate{
+  
+        margin-left: 1015px;
+        float: right;
+        margin-right: 105px;
+        margin-top: 20px;
+          }
+    .login{
+        font-size:17px ;
+        color:white;
+        margin-right:16px ;
+    }
+.imagegallery{
+  font-family:poppins;
+  font-size: 16px;
+  position: absolute;
+  margin-left: 910px;
+  margin-top: 295px;
+  background-color: white;
+  color: darkslateblue;
+  line-height: 1.88;
+  padding-left: 16px;
+  padding-right: 13px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border:solid white;
+}
+.create{
+  
+  background: red;
+  padding: 5px 10px;
+  color:white;
+  border:1px solid white;
+ 
+}
+.title{
+  position: absolute;
+  color:darkslateblue;
+  margin-top: 380px;
+}
+.overcontact{
+  color:darkslateblue;
+  position: absolute;
+  margin-top: 440px;
+}
+#Overview{
+  font-size: 20px;
+}
+#Contact{
+  margin-left:50px;
+  font-size: 20px;
+}
+.information{
+  position: absolute;
+  margin-top: 500px;
+color: darkslateblue;
+}
